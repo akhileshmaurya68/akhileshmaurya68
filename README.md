@@ -2,7 +2,8 @@
 - 👀 I’m interested in machine learning projects.
 - 🌱 I’m currently learning AI & Machine Learning.
 - 💞️ I’m looking to collaborate on AI & Maching Learning.
-- 📫 How to reach me : Send email to akhileshmaurya68@gmail.com
+- 📫 How to reach me : Check my linkedin profile :
+-     https://www.linkedin.com/in/seniorakhileshmaurya/
 
 <!---
 akhileshmaurya68/akhileshmaurya68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
